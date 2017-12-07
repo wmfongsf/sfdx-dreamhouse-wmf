@@ -192,7 +192,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.aaa_Custom_1201__c</field>
+        <field>Account.aa_CustomField__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

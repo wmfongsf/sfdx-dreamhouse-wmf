@@ -47,7 +47,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>aaa_Custom_1201__c</field>
+                <field>aa_CustomField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
